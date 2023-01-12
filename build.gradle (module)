@@ -1,0 +1,5 @@
+dependecies {
+
+       implementation fileTree(dir: 'libs', include: ['*.aar'])
+       
+}
